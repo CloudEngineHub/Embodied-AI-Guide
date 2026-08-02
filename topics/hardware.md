@@ -107,6 +107,9 @@
 | 触觉操控（visuotactile） | NeuralFeels with Neural Fields… | [link](https://www.science.org/doi/10.1126/scirobotics.adl0628) |
 | 触觉大模型/统一表征 | Binding Touch to Everything… (CVPR 2024) | [link](https://openaccess.thecvf.com/content/CVPR2024/papers/Yang_Binding_Touch_to_Everything_Learning_Unified_Multimodal_Tactile_Representations_CVPR_2024_paper.pdf) |
 
+
+**数据工具与标准化**：TLabel（[GitHub](https://github.com/liesliy/tlabel)）是一个开源的触觉数据标注与处理工具包（`pip install tlabel`），提供统一的触觉数据格式标准，支持 GelSight、PaXini、Daimon、UniVTAC 等 10+ 传感器适配器，已被 FTP-1 官方推荐。
+
 ### (5.4) 传感器购买（从研究到落地）
 
 市面上已有成熟视触觉传感器产品，例如 GelSight：[link](https://gelsight.com/)
