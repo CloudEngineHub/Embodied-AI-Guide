@@ -237,7 +237,7 @@ If you find this repository helpful, please consider citing:
 
 ## ⭐️ Star History - Star历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=TianxingChen/Embodied-AI-Guide&type=Date)](https://star-history.com/#TianxingChen/Embodied-AI-Guide&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=TianxingChen/Embodied-AI-Guide&type=Date)](https://star-history.dera.page/#TianxingChen/Embodied-AI-Guide&Date)
 
 ## 🤝 Sponsors - 支持机构
 
